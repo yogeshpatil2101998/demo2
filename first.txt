@@ -1,3 +1,7 @@
 abcd
+<<<<<<< HEAD
 yogesh
 patil
+=======
+new change
+>>>>>>> c4d648257cc771dc342c48d2cde33c30eaa883f7
